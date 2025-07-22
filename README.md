@@ -6,7 +6,7 @@ A visually appealing and fully responsive personal portfolio website designed to
 
 ## 🚀 Live Demo
 
-[View Live](https://somayatamer.github.io/Responsive-Portfolio-Design/)
+🔗[View Live](https://somayatamer.github.io/Responsive-Portfolio-Design/)
 
 ---
 
